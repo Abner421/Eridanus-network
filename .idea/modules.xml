@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Eridanus-network.iml" filepath="$PROJECT_DIR$/.idea/Eridanus-network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eridanus-discovery/discovery.iml" filepath="$PROJECT_DIR$/Eridanus-discovery/discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eridanus-post/post.iml" filepath="$PROJECT_DIR$/Eridanus-post/post.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eridanus-usuario/usuario.iml" filepath="$PROJECT_DIR$/Eridanus-usuario/usuario.iml" />
+    </modules>
+  </component>
+</project>
