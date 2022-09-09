@@ -46,7 +46,7 @@ public class PostController {
     @GetMapping("/monitoreo")
     @ResponseStatus(HttpStatus.OK)
     public HttpStatus monitoreo() {
-        LOGGER.info(":: Servicio ejecutándose ::");
+        LOGGER.info(":: Servicio Post Ejecutándose ::");
         return HttpStatus.OK;
     }
 }

@@ -25,7 +25,7 @@ public class PostServiceImpl implements PostService {
     @Override
     public Post crearPost(PostDTO postDTO) {
         Post post = postRepository.save(Post.from(postDTO));
-        return null;
+        return post;
     }
 
     @Override
